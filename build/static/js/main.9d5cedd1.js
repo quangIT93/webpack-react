@@ -1,0 +1,2 @@
+(()=>{"use strict";require("react");const e=require("react-dom/client"),r=require("react/jsx-runtime");function t(e){let{counter:t}=e;return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsxs)("h1",{children:["Hello, world www ! ",t]}),(0,r.jsx)("input",{placeholder:"Type something here"})]})}(0,e.createRoot)(document.getElementById("root")).render((0,r.jsx)(t,{counter:10}))})();
+//# sourceMappingURL=main.9d5cedd1.js.map
